@@ -1,0 +1,9 @@
+class clock{
+    constructor(){
+
+    }
+
+    display(){
+
+    }
+}
